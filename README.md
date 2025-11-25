@@ -84,37 +84,37 @@ The following roles will interact with the system:
 
 1.	End Users:
 
-  - Perform actions like login, payment initiation, and transaction tracking.
+    - Perform actions like login, payment initiation, and transaction tracking.
 
-  - Benefit from a seamless, secure, and intuitive user experience.
+    - Benefit from a seamless, secure, and intuitive user experience.
 
 
 2.	Administrators:
 
-  - Manage user accounts and monitor flagged activities.
+    - Manage user accounts and monitor flagged activities.
 
-  - Access analytics dashboards for insights into transaction patterns.
+    - Access analytics dashboards for insights into transaction patterns.
   
 
 3.	Fraud Analysts:
 
-  -	Investigate flagged transactions and accounts.
+    -	Investigate flagged transactions and accounts.
 
-  -	Collaborate with AI Engineers to refine fraud detection logic.
+    -	Collaborate with AI Engineers to refine fraud detection logic.
 
 
 4.	Developers & DevOps:
 
-  -	Maintain and scale the system.
+    -	Maintain and scale the system.
 
-  -	Ensure reliability and performance under varying loads.
+    -	Ensure reliability and performance under varying loads.
 
 
 5.	Data Scientists & AI Engineers:
 
-  -	Continuously improve fraud detection and AI decision-making.
+    -	Continuously improve fraud detection and AI decision-making.
 
-  -	Analyze trends and provide actionable insights.
+    -	Analyze trends and provide actionable insights.
 
 
 
