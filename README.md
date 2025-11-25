@@ -26,10 +26,13 @@ The primary aim of FNB Project Sim is to create a realistic simulation of a mode
 By the end of the project, students will have built a functional, secure, and scalable banking simulation that demonstrates the power of modern technologies and teamwork.
 
 ### Roles & Responsibilities
+
 #### Data Scientists
 
+  
   - Role: Analyze transactional data, build predictive models, and deliver actionable insights.
 
+  
   - Tasks:
   
     - Perform Exploratory Data Analysis (EDA) on transaction patterns, spending behavior, and risk indicators.
@@ -38,11 +41,13 @@ By the end of the project, students will have built a functional, secure, and sc
 
     - Forecasting income vs. expenses.
 
-  - Detecting “spreading” (large inflow followed by rapid outflows).
+
+- Detecting “spreading” (large inflow followed by rapid outflows).
 
   - Identifying high-risk accounts.
 
   - Provide a fraud detection API that flags suspicious transactions in real time.
+
 
 - Interaction Points:
 
@@ -50,21 +55,28 @@ By the end of the project, students will have built a functional, secure, and sc
   
   - Collaborate with AI Engineers to refine agentic AI decision-making
 
+
 ### Amendments:
 
 - Fraud modelling e.g. Quick money in and then spreading the funds in micro-transactions.
+
 
 ### Agile Methodology
 
 The project will follow an Agile methodology with bi-weekly sprints. Each sprint will include:
 
+
 1.	Planning: Define goals and tasks for the sprint.
+
 
 2.	Development: Teams work on their assigned tasks.
 
+
 3.	Testing: Conduct unit, integration, and scenario testing.
 
+
 4.	Presentation: Teams present their progress to stakeholders and peers.
+
 
 ### System Roles
 
@@ -76,23 +88,27 @@ The following roles will interact with the system:
 
   - Benefit from a seamless, secure, and intuitive user experience.
 
+
 2.	Administrators:
 
   - Manage user accounts and monitor flagged activities.
 
   - Access analytics dashboards for insights into transaction patterns.
   
+
 3.	Fraud Analysts:
 
   -	Investigate flagged transactions and accounts.
 
   -	Collaborate with AI Engineers to refine fraud detection logic.
 
+
 4.	Developers & DevOps:
 
   -	Maintain and scale the system.
 
   -	Ensure reliability and performance under varying loads.
+
 
 5.	Data Scientists & AI Engineers:
 
@@ -108,13 +124,18 @@ By the end of the project, students will have:
 
 1.	A fully functional, modular microservice architecture.
 
+
 2.	A working agentic AI system capable of autonomous decision-making.
+
 
 3.	Predictive models and fraud detection algorithms are integrated into the system.
 
+
 4.	Hands-on experience collaborating across disciplines in a real-world simulation. 
 
+
 5.	Understand IC Swift
+
 
 This project not only enhances technical proficiency but also fosters teamwork and problem-solving abilities.
 
