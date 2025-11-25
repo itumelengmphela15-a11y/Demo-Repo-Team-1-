@@ -28,31 +28,31 @@ By the end of the project, students will have built a functional, secure, and sc
 ### Roles & Responsibilities
 #### Data Scientists
 
-•	Role: Analyze transactional data, build predictive models, and deliver actionable insights.
+  - Role: Analyze transactional data, build predictive models, and deliver actionable insights.
 
-•	Tasks:
+  - Tasks:
   
-  •	Perform Exploratory Data Analysis (EDA) on transaction patterns, spending behavior, and risk indicators.
+    - Perform Exploratory Data Analysis (EDA) on transaction patterns, spending behavior, and risk indicators.
 
-  •	Develop predictive models for:
+    - Develop predictive models for:
 
-  •	Forecasting income vs. expenses.
+    - Forecasting income vs. expenses.
 
-  •	Detecting “spreading” (large inflow followed by rapid outflows).
+  - Detecting “spreading” (large inflow followed by rapid outflows).
 
-  •	Identifying high-risk accounts.
+  - Identifying high-risk accounts.
 
-  •	Provide a fraud detection API that flags suspicious transactions in real time.
+  - Provide a fraud detection API that flags suspicious transactions in real time.
 
-•	Interaction Points:
+- Interaction Points:
 
-  •	Share insights and models with Developers for integration into the system.
+  - Share insights and models with Developers for integration into the system.
   
-  •	Collaborate with AI Engineers to refine agentic AI decision-making
+  - Collaborate with AI Engineers to refine agentic AI decision-making
 
 ### Amendments:
 
-•	Fraud modelling e.g. Quick money in and then spreading the funds in micro-transactions.
+- Fraud modelling e.g. Quick money in and then spreading the funds in micro-transactions.
 
 ### Agile Methodology
 
@@ -72,33 +72,33 @@ The following roles will interact with the system:
 
 1.	End Users:
 
-  •	Perform actions like login, payment initiation, and transaction tracking.
+  - Perform actions like login, payment initiation, and transaction tracking.
 
-  •	Benefit from a seamless, secure, and intuitive user experience.
+  - Benefit from a seamless, secure, and intuitive user experience.
 
 2.	Administrators:
 
-  •	Manage user accounts and monitor flagged activities.
+  - Manage user accounts and monitor flagged activities.
 
-  •	Access analytics dashboards for insights into transaction patterns.
+  - Access analytics dashboards for insights into transaction patterns.
   
 3.	Fraud Analysts:
 
-  •	Investigate flagged transactions and accounts.
+  -	Investigate flagged transactions and accounts.
 
-  •	Collaborate with AI Engineers to refine fraud detection logic.
+  -	Collaborate with AI Engineers to refine fraud detection logic.
 
 4.	Developers & DevOps:
 
-  •	Maintain and scale the system.
+  -	Maintain and scale the system.
 
-  •	Ensure reliability and performance under varying loads.
+  -	Ensure reliability and performance under varying loads.
 
 5.	Data Scientists & AI Engineers:
 
-  •	Continuously improve fraud detection and AI decision-making.
+  -	Continuously improve fraud detection and AI decision-making.
 
-  •	Analyze trends and provide actionable insights.
+  -	Analyze trends and provide actionable insights.
 
 
 
