@@ -21,7 +21,7 @@ Data science combines multiple fields, including statistics, scientific methods,
 -	Version Control: Git/GitHub for collaborative development.
 -	Testing Frameworks: JUnit for unit testing, Selenium for UI testing.
 
-Data Scientists
+### Data Scientists
 -	Role: Analyze transactional data, build predictive models, and deliver actionable insights.
 -	Tasks:
       -	Perform Exploratory Data Analysis (EDA) on transaction patterns, spending behavior, and risk indicators.
